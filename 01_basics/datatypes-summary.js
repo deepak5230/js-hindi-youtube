@@ -32,3 +32,20 @@ const myFunction=function(){
 }
 console.log (typeof outsideTemp);
 
+let myYoutubename= "deepak"
+let anothername = "myYoutubename"
+anothername= "chsi aurcode"
+console.log(anothername)
+
+let userone ={
+
+    name: "deepak",
+    upi: "user"
+}
+
+let usertwo = userone
+
+usertwo.name= "deepakgupta351@gmail.com"
+
+console.log(userone.name)
+console.log(usertwo.name)
